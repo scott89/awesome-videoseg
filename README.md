@@ -3,4 +3,7 @@
 3. Motion-Guided Cascaded Refinement Network for Video Object Segmentation [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Motion-Guided_Cascaded_Refinement_CVPR_2018_paper.pdf) [Code](https://github.com/feinanshan/Motion-Guided-CRN)
 4. Dynamic Video Segmentation Network [Project Page](https://tsujuifu.github.io/projs/cvpr18_dvsnet.html)
 5. Semantic Video Segmentation by Gated Recurrent Flow Propagation [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) [Code](https://github.com/D-Nilsson/GRFP)
-6.
+6. Instance Embedding Transfer to Unsupervised Video Object Segmentation [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Instance_Embedding_Transfer_CVPR_2018_paper.pdf)
+7. Fast Video Object Segmentation by Reference-Guided Mask Propagation [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Oh_Fast_Video_Object_CVPR_2018_paper.pdf) [Code](https://github.com/seoungwugoh/RGMP)
+8. Efficient Video Object Segmentation via Network Modulation [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Efficient_Video_Object_CVPR_2018_paper.pdf) [Code](https://github.com/linjieyangsc/video_seg)
+9. Deep Spatio-Temporal Random Fields for Efficient Video Segmentation [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chandra_Deep_Spatio-Temporal_Random_CVPR_2018_paper.pdf)
